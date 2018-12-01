@@ -1,0 +1,30 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 3%;
+}
+
+h1 {
+  font-style: italic;
+  color: DodgerBlue;
+}
+
+.Logo {
+  text-align: left;
+  width: 48vw;
+}
+
+.main {
+  display: flex;
+  justify-content: space-around;
+  height: 70vh;
+}
+
+.img {
+  height: 40vh;
+  width: auto;
+  margin: 3vh 0;
+}
+
+
